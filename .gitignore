@@ -1,0 +1,6 @@
+/.deepnote/
+venv/
+*.txt
+*.model
+*.npz
+*.zip
